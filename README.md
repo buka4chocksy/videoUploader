@@ -23,7 +23,7 @@ To consume the upload endpoint, send a Get request http://localhost:3001/stream?
        
 ## Video Id : to get the video id ,
 
-##Open the folders : lib/data/videos.json ,
+Open the folders : lib/data/videos.json ,
 
 copy the uniqueId in the name  
 
