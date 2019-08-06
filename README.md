@@ -26,13 +26,15 @@ To consume the upload endpoint, send a Get request http://localhost:3001/stream?
 ##Open the folders : lib/data/videos.json ,
 
 copy the uniqueId in the name  
+
 "originalName": "Game of Thrones - S08E06 HD (TvShows4Mobile.Com).mp4",
+
  "size": 122889673,
- ```
+
  "name": "gRC7RbA4C6SHFfdFSKKjggcV.mp4",
  ```
  "id": "gRC7RbA4C6SHFfdFSKKjggcV"
-        
+ ```    
         
 ## Dependencies
 ```
