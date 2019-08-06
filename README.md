@@ -10,6 +10,15 @@ npm install or yarn
 ```
 to install the dependencies (multiparty)
 `
+## Start the server 
+* Run the command after you have run the above command
+
+```
+node index.js
+
+```
+to start node server 
+
 
 ## End points
 
